@@ -1,0 +1,3 @@
+Fiji, ImageJ 1.54f, Java 1.8.0_322 (64-bit)
+
+Run_TM_LoG_Detector.py to be placed in folder \Fiji.app\plugins.
